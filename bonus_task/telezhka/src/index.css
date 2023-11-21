@@ -1,0 +1,105 @@
+*{
+  background-color: rgb(59, 59, 59);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.App {
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 20px;
+}
+
+.chats {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.chats h2 {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  padding: 15px;
+  margin-bottom: 5px;
+  background-color: #6b6a6a;
+  border-radius: 5px;
+}
+
+.chat {
+  flex: 2;
+  height: 70vh;
+  overflow-y: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: larger;
+  border: 1px solid #6b6a6a;
+  border-radius: 10px;
+  width: 100%;
+  padding: 20px;
+}
+
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-left: 30%;
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 10px;
+  width: 40%;
+  background-color: #767676;
+  border-radius: 10px;
+}
+
+.input-container input {
+  flex: 1;
+  padding: 8px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.input-container button {
+  padding: 8px;
+  background-color: #4c65af;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+
+.login-container{
+  border: 1px #6b6a6a solid;
+  border-radius: 10px;
+  text-align: center;
+  height: 200px;
+  margin-top: 100px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-evenly;
+}
+
+
+.login-container input {
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}
+
+.login-container button {
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}

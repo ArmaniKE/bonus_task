@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Arman"
+    },
+    {
+      "id": "2",
+      "name": "Arslan"
+    },
+    {
+      "id": "3",
+      "name": "Alice"
+    },
+    {
+      "id": "4",
+      "name": "Bob"
+    },
+    {
+      "id": "5",
+      "name": "Charlie"
+    },
+    {
+      "id": "6",
+      "name": "User"
+    },
+    {
+      "id": "7",
+      "name": "User2"
+    },
+    {
+      "id": "8",
+      "name": "User3"
+    },
+    {
+      "id": "9",
+      "name": "User4"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "senderId": "1",
+      "receiverId": "2",
+      "text": "Hello Arslan"
+    },
+    {
+      "id": "2",
+      "senderId": "2",
+      "receiverId": "1",
+      "text": "Hi Arman"
+    },
+    {
+      "id": "1700479127474",
+      "senderId": "yourSenderId",
+      "receiverId": "1",
+      "text": "Ok"
+    },
+    {
+      "id": "1700479127475",
+      "senderId": "yourSenderId",
+      "receiverId": "1",
+      "text": "KO"
+    },
+    {
+      "id": "1700479127476",
+      "senderId": "yourSenderId",
+      "receiverId": "1",
+      "text": "123"
+    },
+    {
+      "id": "1700479127477",
+      "senderId": "yourSenderId",
+      "receiverId": "3",
+      "text": "Hi"
+    },
+    {
+      "id": "1700479127478",
+      "senderId": "yourSenderId",
+      "receiverId": "4",
+      "text": "Nihao"
+    },
+    {
+      "id": "1700479127479",
+      "senderId": "yourSenderId",
+      "receiverId": "5",
+      "text": "Sup"
+    },
+    {
+      "id": "1700479127480",
+      "senderId": "yourSenderId",
+      "receiverId": "6",
+      "text": "Bop"
+    },
+    {
+      "id": "1700479127481",
+      "senderId": "2",
+      "receiverId": "2",
+      "text": "Sup"
+    },
+    {
+      "id": "1700479127482",
+      "senderId": "2",
+      "receiverId": "3",
+      "text": "buy"
+    },
+    {
+      "id": "1700479127483",
+      "senderId": "2",
+      "receiverId": "9",
+      "text": "HI"
+    },
+    {
+      "id": "1700479127484",
+      "senderId": "2",
+      "receiverId": "8",
+      "text": "HI"
+    },
+    {
+      "id": "1700479127485",
+      "senderId": "2",
+      "receiverId": "1",
+      "text": "yo"
+    }
+  ]
+}
